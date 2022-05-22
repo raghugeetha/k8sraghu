@@ -7,4 +7,4 @@ spec:
   - name: myfirst-conatiner
     image:  nginx
     ports:
-    - containerPort: 80
+     - containerPort: 80
